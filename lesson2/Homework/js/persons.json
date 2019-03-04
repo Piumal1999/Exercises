@@ -1,0 +1,23 @@
+[
+  {
+  "name": "Piumal",
+  "age" : 19,
+  "school" : "SACK"
+},{
+  "name": "Kumuditha",
+  "age" : 16,
+  "school" : "SACK"
+},{
+    "name": "Jayasanka",
+    "age": 21,
+    "school": "SACK"
+},{
+  "name": "Heshan",
+  "age" : 19,
+  "school" : "SACK"
+},{
+  "name": "Manoj",
+  "age" : 19,
+  "school" : "VCK"
+}
+]
